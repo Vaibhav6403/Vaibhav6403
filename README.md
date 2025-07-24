@@ -35,8 +35,8 @@ Git, GitHub, Bitbucket, Docker, Jenkins, Postman, WebSockets, AWS (Basics)
 
 ### 📊 GitHub Stats
 
-![Vaibhavsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vue-dark)
+![Vaibhavsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav6403&show_icons=true&theme=vue-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav6403&layout=compact&theme=vue-dark)
 
 ---
 
