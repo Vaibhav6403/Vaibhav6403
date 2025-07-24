@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Vaibhavsinh Chauhan!
 
-<!--
-**Vaibhav6403/Vaibhav6403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Frontend Developer with a flair for building sleek and scalable web apps using **Vue.js** and **React**. I love turning complex ideas into intuitive user experiences — one pixel-perfect component at a time!
 
-Here are some ideas to get you started:
+🌱 Currently crafting seamless frontend solutions @ **eRoam Technologies** using Vue.js  
+💼 Previously interned @ **SoftSages Technology**, diving deep into React development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+Vue.js (2.x & 3.x), Vuex, Nuxt.js, React, JavaScript, TypeScript
+
+**Styling:**  
+Tailwind CSS, Bootstrap, **Vue-Bootstrap**, SCSS
+
+**Backend & Database:**  
+Node.js, Express, MongoDB, Mongoose
+
+**Tools & DevOps:**  
+Git, GitHub, Bitbucket, Docker, Jenkins, Postman, WebSockets, AWS (Basics)
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔧 Building modern, performant web apps that focus on user-first design
+- 🌐 Exploring full-stack capabilities with Node.js and MongoDB
+- 🤝 Collaborating with teams to ship code that scales
+- 🧠 Always learning, always improving
+
+---
+
+
+### 📊 GitHub Stats
+
+![Vaibhavsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vue-dark)
+
+---
+
+> 💬 *“Code is like poetry — and I like mine clean, modular, and efficient.”*  
